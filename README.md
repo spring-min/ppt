@@ -1,1 +1,3 @@
-# spring-Blog
+### 函数式编程
+[纯函数](https://github.com/spring011/spring-Blog/issues/18)<br>
+[高阶函数](https://github.com/spring011/spring-Blog/issues/17)
